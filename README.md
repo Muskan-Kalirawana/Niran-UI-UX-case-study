@@ -27,7 +27,7 @@ Figma, UI/UX Design, Prototyping
 
 ## Project Links
 - **Interactive Figma Prototype:** [Explore NIRAN](https://www.figma.com/design/QzIad475lOEyFTD59UsL8u/Untitled?node-id=0-1)
-- **Complete Case Study:** [View PDF in Case-Study folder]
+- **Complete Case Study:**[View NIRAN UX Case Study (PDF)](/NIRAN-UX-Case-Study-compressed.pdf)
 
 ## Project Outcome
 - 21 survey responses
